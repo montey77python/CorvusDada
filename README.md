@@ -1,38 +1,27 @@
-import os
+<!-- Pinned Repositories -- >
 
-file = open('./vercel.json', 'r')
-str = file.read()
-file = open('./vercel.json', 'w')
+<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
-str = str.replace('"maxDuration": 10', '"maxDuration": 30')
+<br>
 
-file.write(str)
-file.close()# CorvusDada
-Create deploy-prep.yml
+<a href="https://github.com/braydoncoyer/ng-limeade">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
-* Create deploy-prep.py
+<a href="https://github.com/braydoncoyer/officeapi">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
-* Update vercel.json
+<!-- GitHub Stats -- >
 
-* Update deploy-prep.yml
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
-* Update vercel.json
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+</a>
 
-* Added coauthor
-
-Co-authored-by: Dou Xiaobo <93511091+douxiaobo@users.noreply.github.com>
-
-* Update deploy-prep.yml
-
-* refactor: format code
-
-* Added if condition to disable deployments on forks
-
-Co-authored-by: Rick Staa <rick.staa@outlook.com>
-
-* Update deploy-prep.yml
-
-Co-authored-by: Dou Xiaobo <93511091+douxiaobo@users.noreply.github.com>
-Co-authored-by: Anurag Hazra <hazru.anurag@gmail.com>
-Co-authored-by: rickstaa <rick.staa@outlook.com>
 
